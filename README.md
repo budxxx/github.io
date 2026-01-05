@@ -1,5 +1,3 @@
-# github.io
-Web CV
 📄 Moj Web CV (Životopis)
 Ovo je moj lični Web CV, hostan besplatno putem GitHub Pages. Dizajniran je da bude brz, responzivan (prilagođen mobitelima) i jednostavan za održavanje. Projekt koristi jednu index.html datoteku koja sadrži svu strukturu, stilove (putem Tailwind CSS-a) i logiku.
 ✨ Ključne Funkcionalnosti
