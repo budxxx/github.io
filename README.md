@@ -8,7 +8,6 @@ Ovo je moj lični Web CV, hostan besplatno putem GitHub Pages. Dizajniran je da 
 🖨️ PDF Export: Dugme za printanje ili spremanje stranice kao PDF.
 🚀 Kako pokrenuti projekt lokalno
 Klonirajte repozitorij:
-git clone [https://github.com/vaskorisnik/moj-web-cv.git](https://github.com/vaskorisnik/moj-web-cv.git)
 
 
 Uđite u folder:
